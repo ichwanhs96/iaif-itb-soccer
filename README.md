@@ -1,4 +1,4 @@
-# IAIF ITB Soccer
+# IAIF ITB Soccer ⚽️
 Welcome to IAIF ITB Soccer repository. This repository contains the code for automating any IAIF ITB Soccer activities.
 
 ## Services
