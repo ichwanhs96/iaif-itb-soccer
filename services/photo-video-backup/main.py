@@ -69,7 +69,7 @@ def post_test_message_to_facebook() -> None:
   print(r.text)
 
 def upload_video_to_facebook(video_path: str):
-  app_id = "412160031847038"
+  app_id = "412160031847038" # Ichwan Facebook App ID
 
   # Get file details
   file_name = os.path.basename(video_path)
