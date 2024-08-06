@@ -1,0 +1,9 @@
+# Gdrive credentials
+credentials.json
+token.json
+
+# env
+.env
+
+# venv
+venv/
